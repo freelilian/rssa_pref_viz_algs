@@ -21,5 +21,9 @@ Start by installing all the dependencies (it is recommended to use `conda`):
 Then configure `src/config.json` 
 and finally start the server with `python src/app.py`. 
 
+## Data files
+Please download the pre-trained data from https://drive.google.com/drive/folders/1OQw2oTX6no-tNNQ_oQUO9wnApV5alztQ?usp=sharing,
+place them in this location: src/algs/data/
+
 
 
